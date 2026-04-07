@@ -23,7 +23,7 @@ The project is built on a robust relational structure joined within Tableau usin
 ---
 
 ## 🛠️ Tech Stack & Skills
-- **Tool:** Tableau Desktop
+- **Tool:** Tableau Public
 - **Modeling:** Relational Joins (Inner/Left), Schema Mapping.
 - **Analytics:** KPI Development, Advanced Calculated Fields, Geographic Mapping.
 - **Data Prep:** Handling null values, inconsistent date formats, and financial status cleaning.
