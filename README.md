@@ -15,7 +15,7 @@ This project provides a comprehensive, data-driven analysis of the student lifec
 ## 🏗️ Data Architecture & Relational Model
 The project is built on a robust relational structure joined within Tableau using `Student ID`, `Course ID`, and `Branch ID`.
 
-* **Student Master:** Demographic profiles, degrees, and professional experience.
+* **Student Details:** Demographic profiles, degrees, and professional experience.
 * **Enrollment Log:** The transactional core tracking class modes and placement outcomes.
 * **Course Directory:** Course-specific metadata, tech stacks, and fee structures.
 * **Branch Directory:** Geographic performance data for Chennai and Bangalore hubs.
