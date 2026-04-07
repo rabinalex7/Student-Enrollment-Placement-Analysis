@@ -1,7 +1,6 @@
 # Student Enrollment & Placement Analysis
 Institutional BI &amp; Student Success Analytics: An end-to-end Tableau project integrating 4 relational data tables (10,000+ records). Features interactive dashboards tracking placement ratios, revenue realization by fee status, and regional enrollment trends for a professional training institute.
 
-# 🎓 Institutional Growth & Student Lifecycle Analytics
 ## 📌 Project Overview
 This project provides a comprehensive, data-driven analysis of the student lifecycle and business operations for a professional training institution. By integrating **four relational data sources**, the project transforms **10,000+ records** into actionable insights regarding student success, financial health, and regional growth.
 
